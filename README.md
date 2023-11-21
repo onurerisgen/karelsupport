@@ -1,16 +1,14 @@
-# karelsupport
-Karel Ürünleri Destek Dokümantasyonu
+# karelkolay
 
- Karel Cloud Web Arayüz Giriş Ekranı
-•	Karel Cloud Web arayüzüne bağlanmak için web 
+•	Karel Kolay Web arayüzüne bağlanmak için web 
 browserı açıp, adres satırına başlangıç adresi olan 
-santral.karel.cloud yazılarak giriş yapılır.
+
+https://santral.karel.cloud yazılarak giriş yapılır.
 
 
 Karel Kolay mail sunucusu tanımlama:
 
 •	Sistemdeki mail işlemlerinin gerçekleştirilebilmesi için bir mail sunucusu oluşturulması gerekmektedir. Bunun için ana menülerde ‘Ayarlar’ sekmesine gelinir ve yan tarafa açılan menülerde ‘Mail Sunucuları’ seçilir.
-
 
 •	Açılan sayfada sol üst köşeden ‘Mail Sunucusu Ekle’ butonuna tıklanır. 
 
