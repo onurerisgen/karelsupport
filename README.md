@@ -44,15 +44,21 @@ Karel Kolay mail sunucusu tanımlama:
 •	Smtp Sunucu Port : 465 
 •	Smtp Sunucusu SSL : ‘Kullan’ olarak seçilmelidir.
 •	Smtp Sunucusu Kullanıcı Adı : Gmail hesabınız.
-
  
 •	Smtp Sunucu Şifre : Bu şifreyi öğrenebilmek için, internet tarayıcısının sağ üst köşesinde bulunan fotoğrafınıza tıklayarak(1), ‘Google hesabınızı yönetin’(2) bölümüne tıklanır.
-
 
 •	Smtp Sunucu Şifre : Açılan pencerede sol kısımda ‘Güvenlik’ sekmesine tıklanır.
  
 •	Smtp Sunucu Şifre : ‘Uygulama şifreleri’ bölümü tıklanılır.
 
+**Dış Bağlantılar**
+Santral dışı arama gerçekleştirebilmek için ‘Ayarlar’ ana menüsü altında ‘Dış Bağlantılar’ alt menüsüne gelerek gerekli ayarlamaların gerçekleştirilmesi gerekmektedir. 
+
+![image](https://github.com/onurerisgen/karelsupport/assets/11631408/79c02cf9-db5f-4f18-8ea4-fc310a2361d8)
+
+
+Açılan sayfada sol üst köşeden ‘Dış bağlantı ekle’ butonuna tıklanır. 
+![image](https://github.com/onurerisgen/karelsupport/assets/11631408/7a0ed27d-d195-4d90-9ad7-494db9a84162)
 
 •	 Smtp Sunucu Şifre : ‘Uygulama seçin’(1) kısmında ‘Posta’(2) ve ‘Cihaz seçin’(3) bölümünde ‘Windows Bilgisayar’(4) seçildikten sonra ‘OLUŞTUR’ düğmesi tıklanır.
  
